@@ -3,7 +3,8 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = os.getenv('SECRET_KEY', default=('jehsfnlc29047nvalgfnv38vr’))
+SECRET_KEY = os.getenv(
+'SECRET_KEY', default=('jgJBSDJBjbKJBKJBKJBV’))
 
 DEBUG = False
 
