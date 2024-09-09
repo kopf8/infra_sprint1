@@ -1,0 +1,5 @@
+ IP: 89.169.167.69
+ name_taski: https://yandex-taski.hopto.org;
+ name_kittygram: https://yandex-kittygram.hopto.org;
+ login: superuser;
+ password: superpass;
